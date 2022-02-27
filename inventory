@@ -1,0 +1,14 @@
+all:
+  children:
+    dbservers:
+      hosts:
+        51.15.171.108
+    mailservers:
+      hosts:
+        51.15.171.108
+    webservers:
+      hosts:
+        51.15.171.108
+    prod:
+      hosts:
+        51.15.171.108
